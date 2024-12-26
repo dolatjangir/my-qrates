@@ -32,36 +32,38 @@
   </div>
    </div>
    <!-- <page-2 -->
-    <div class="bg-black h-[730px]">
+    <div class="bg-black h-[730px] md:h-[780px] xl:h-[1020px] 2xl:h-[1300px]">
       <!-- page-2-part-1 -->
       <div class="pt-[34px] px-2  ">
+         <div class=" 2xl:w-[450px] 2xl:pl-[30px] 2xl:pr-[40px]">
          <div class=" w-[118px]  pb-[37px]">
          <p class="uppercase border-4   border-neutral-400 py-[2px] pl-2 text-white font-medium tracking-tight">for artists</p>
       </div>
       <div class="">
-         <p class="pb-6 text-[44px] tracking-[-1.3px] leading-[44px] font-semibold text-[#ffffff] ">Music in your hands. Without the barriers.</p>
-         <p class="pb-6 text-xl text-[#ffffff] font-semibold">Full-service production, a global retail network, customer support - and you keep up to 85% of profits. ↓</p>
-      </div>
-      <div class="px-[4%] flex justify-end relative pr-5 z-10">
+         <p class="pb-6 text-[44px] 2xl:text-[60px] 2xl:font-bold tracking-[-1.3px] leading-[44px] 2xl:leading-none font-semibold text-[#ffffff] ">Music in your hands. Without the barriers.</p>
+         <p class="pb-6 text-xl text-[#ffffff] font-semibold 2xl:text-2xl">Full-service production, a global retail network, customer support - and you keep up to 85% of profits. ↓</p>
+      </div> </div>
+      <div class=" relative 2xl:bottom-96">
+      <div class="px-[4%]  flex justify-end relative lg:right-3 pr-5 z-10">
          <!-- md:w-[170.3px] md:h-[212.9px] lg:w-[193.6px] lg:h-[242px]
                                                 xl:w-[353.1px] xl:h-[441.3px] 2xl:w-[437.2px] 2xl:h-[546.5px] -->
-         <div class="ml-[49.6px] rotate-[10deg] w-[145px] h-[181px]
-          
+         <div class="ml-[49.6px] rotate-[10deg] w-[145px] h-[181px] md:w-[170.3px] md:h-[212.9px]
+          lg:w-[193.6px] lg:h-[242px] xl:w-[353.1px] xl:h-[441.3px] 2xl:w-[437.2px] 2xl:h-[546.5px]
         border-2 border-black">
             <img class="" src="https://images.prismic.io/qrates-prd/00bc2c69-9625-4bd3-a662-b9451150fe05_top_section_image_1.png?auto=compress,format&rect=0,14,613,766&w=1200&h=1500"/>
          </div>
       </div>
-      <div class="pl-8 pr-[38.3px] relative bottom-[84px] z-0"> 
-         <div class=" rotate-[-15deg] w-[153.6px] h-[191px]">
+      <div class="pl-8 pr-[38.3px] 2xl:pr-0 relative bottom-[84px] xl:pl-[90px] 2xl:left-0 2xl:pl-32 md:bottom-28 lg:bottom-[130px] 2xl:bottom-16 xl:bottom-60 z-0"> 
+         <div class=" rotate-[-15deg] w-[153.6px] h-[191px] md:w-[176px] md:h-[220px]  lg:w-[200px] lg:h-[250px]   xl:w-[364.6px] xl:h-[455.7px]  2xl:w-[441.4px] 2xl:h-[551.7px]">
             <!--   md:w-[176px] md:h-[220px] lg:w-[200px] lg:h-[250px]
                                                 xl:w-[364.6px] xl:h-[455.7px] 2xl:w-[441.4px] 2xl:h-[551.7px] -->
             <img class="" src="https://images.prismic.io/qrates-prd/8b532562-a28c-4e07-b2ab-1ddf0e2eaa91_top_section_image_2.png?auto=compress,format&rect=0,11,657,821&w=1200&h=1500"/>
          </div>
       </div>
-      <div class="w-[76px] h-[87.2px]
-        relative bottom-[200px] z-20 left-48">
+      <div class="w-[76px] h-[87.2px] xl:w-[212px] xl:h-[240px] 2xl:w-[293.2px] 2xl:h-[337.1px] md:w-[103px] md:h-[117px] xl:bottom-[500px]
+        relative bottom-[200px] md:bottom-60 lg:bottom-[270px] z-20 left-48 md:left-52 lg:left-56 xl:left-[420px] 2xl:left-[550px] 2xl:bottom-[580px]">
          <img src="https://assets.qrates.com/packs/media/sticker/paid-42cd4b49.svg" />
-      </div>
+      </div></div>
    </div>
     </div>
     <!-- page-3 -->
@@ -127,7 +129,7 @@
          </div>
         </div>
          <!-- page-5-part-3 -->
-        <div class="p-[15px] sm:flex  2xl:hidden">
+        <div class="p-[15px] flex  2xl:hidden">
          <div class=" ">
             <div class="text-2xl font-bold border-2 border-black rounded-full w-[43px] h-[43px] bg-white text-center">2</div>
             <div class="border-l-[3px] border-[#000000] h-[441px] md:h-[390px] lg:h-[310px] xl:h-[190px] ml-5"></div>
@@ -143,7 +145,7 @@
          </div>
         </div>
         <!-- page-5-part-3-for-2xl -->
-        <div class="p-[15px] px-[70px] 2xl:border-b-2 2xl:border-neutral-100 2xl:h-[1034px] sm:hidden 2xl:flex">
+        <div class="p-[15px] px-[70px] 2xl:border-b-2 2xl:border-neutral-100 2xl:h-[1034px] hidden 2xl:flex">
          
          <div class="pl-[6.1px]">
             <h1 class="mb-[10px] text-2xl font-semibold ">Start a Qrates page,</h1>
@@ -155,7 +157,7 @@
          </div>
         </div>
         <!-- page-5-part-4-for-2xl -->
-        <div class="p-[15px] px-[70px]  2xl:h-[545px] sm:hidden 2xl:flex">
+        <div class="p-[15px] px-[70px]  2xl:h-[545px] hidden 2xl:flex">
          
          <div class="pl-[6.1px] text-end">
             <h1 class="mb-[10px] text-3xl font-semibold ">Collect orders from fans</h1>
@@ -163,7 +165,7 @@
          </div>
         </div>
           <!-- page-5-part-5-for-2xl -->
-          <div class="p-[15px] px-[70px]  2xl:h-[432px] sm:hidden 2xl:flex">
+          <div class="p-[15px] px-[70px]  2xl:h-[432px] hidden 2xl:flex">
          
          <div class="pl-[6.1px] text-end">
             <h1 class="mb-[10px] text-3xl font-semibold ">Upload your product assets and start production</h1>
@@ -171,13 +173,13 @@
          </div>
         </div>
         <!-- page-5-part-5-for=2xl -->
-         <div class="p-[15px] px-[70px] sm:hidden 2xl:block text-center 2xl:h-[548px]">
+         <div class="p-[15px] px-[70px] hidden 2xl:block text-center 2xl:h-[548px]">
             <img class="w-[312px] h-[226.1px]" src="https://images.prismic.io/qrates-prd/d405f120-87ed-4136-aea5-3b0c903a5a45_Frame+440.png?auto=compress,format"/>
          </div>
          <!-- page-5-part-6-for=2xl -->
-         <div class="2xl:block sm:hidden 2xl:h-[710px] 2xl:border-b-2 2xl:border-neutral-100"></div>
+         <div class="2xl:block hidden 2xl:h-[710px] 2xl:border-b-2 2xl:border-neutral-100"></div>
         <!-- page-5-part-7-for=2xl -->
-         <div class=" 2xl:h-[753px] p-[15px] px-[70px] sm:hidden 2xl:block text-end">
+         <div class=" 2xl:h-[753px] p-[15px] px-[70px] hidden 2xl:block text-end">
             <div class="pl-[6.1px] text-end">
             <h1 class="mb-[10px] text-3xl font-semibold ">Receive revenue</h1>
             <p class="my-[10px] text-xl font-semibold">Make a request to receive your revenue. We can deposit your funds to your pre-registered bank account or Paypal account.</p>
@@ -187,7 +189,7 @@
       </div>
         
         <!-- page-5-2 -->
-         <div class=" bg-[#FFF804]">
+         <div class="bg-none 2xl:bg-[#FFF804]">
             <div class="m-[15px] bg-[#FFF804] border-2 border-black 2xl:border-0">
       <!-- page-5-2-part-1 -->
          <div class="px-[15px] pb-[15px] 2xl:pb-14 2xl:px-[70px] pt-10  2xl:border-b 2xl:border-neutral-100">
@@ -198,7 +200,7 @@
             <p class="mb-[10px] text-xl font-semibold">Qrates supports a wide range of artists while eliminating the hassles, costs and risks associated with pressing records, giving artists more time and income back in their hands.</p>
          </div>
          <!-- page-5-2-page-2-2xl-1 -->
-         <div class="p-[15px] 2xl:flex sm:hidden border-b-2 border-neutral-100 2xl:px-[70px] 2xl:h-[664px] flex">
+         <div class="p-[15px] 2xl:flex hidden border-b-2 border-neutral-100 2xl:px-[70px] 2xl:h-[664px] ">
          <div class="hidden">
             <div class="text-2xl font-bold border-2 border-black rounded-full w-[43px] h-[43px] bg-white text-center">3</div>
             <div class="border-l-[3px] border-[#000000] h-[450px] md:h-[360px] lg:h-[390px] xl:h-[480px] ml-5"></div>
@@ -211,7 +213,7 @@
          </div>
         </div>
         <!-- page-5-2-page-2-2xl-2 -->
-        <div class="p-[15px] 2xl:px-[70px]  border-b-2 border-neutral-100  2xl:h-[1034px] flex">
+        <div class="p-[15px] 2xl:px-[70px] 2xl:flex hidden  border-b-2 border-neutral-100  2xl:h-[1034px] ">
          <div class="hidden">
             <div class="text-2xl font-bold border-2 border-black rounded-full w-[43px] h-[43px] bg-white text-center">3</div>
             <div class="border-l-[3px] border-[#000000] h-[450px] md:h-[360px] lg:h-[390px] xl:h-[480px] ml-5"></div>
@@ -243,7 +245,7 @@
         </div>
         
          <!-- page-5-2-part-3 -->
-        <div class="p-[15px] flex px-[70px] 2xl:h-[432px]">
+        <div class="p-[15px] flex 2xl:px-[70px] 2xl:h-[432px]">
          <div class="sm:block 2xl:hidden">
             <div class="text-2xl font-bold border-2 border-black rounded-full w-[43px] h-[43px] bg-white text-center">4</div>
             <div class="border-l-[3px] border-[#000000] h-[370px] md:h-[330px] lg:h-[270px] xl:h-[160px] ml-5"></div>
@@ -294,7 +296,7 @@
         </div>
           <!-- page-5-2-part-6 -->
        <div class="p-[15px] flex 2xl:px-[70px] 2xl:h-[753px]">
-         <div class="sm:block 2xl:hidden">
+         <div class="block 2xl:hidden">
             <div class="text-2xl font-bold border-2 border-black rounded-full w-[43px] h-[43px] bg-white text-center">7</div>
             <div class="border-l-[3px] border-[#000000] h-[634px] md:h-[540px] lg:h-[450px] xl:h-[280px] ml-5"></div>
             <div class="ml-[12.5px] relative bottom-[15px] text-xl"><i class="fa-solid fa-angle-down"></i></div>
@@ -306,14 +308,171 @@
             <h3 class="text-lg 2xl:text-xl font-bold">Repress</h3>
             <p class="mb-[10px] text-md 2xl:text-lg font-semibold">Repressing records is always easy. Master stampers can be stored at the factory for 18 months at no charge, so there is no need to make new stampers within that time frame. Use the repress requests from fans as a signal on when to repress more records.</p>
             <p class="mb-[10px] text-lg 2xl:text-xl font-semibold"><a class="underline uppercase" href="https://qrates.com">LEARN MORE</a></p>
-            <button class="sm:hidden 2xl:block uppercase text-md bg-black text-white  font-bold px-[25px] py-[15px] rounded-full mx-[66px] mt-6">how it works</button>
+            <button class="hidden 2xl:block uppercase text-md bg-black text-white  font-bold px-[25px] py-[15px] rounded-full mx-[66px] mt-6">how it works</button>
          </div>
         </div>
       
       </div>
         
          </div>
+         <!-- page-5-3 -->
+         <div class="block 2xl:hidden  px-[15px] pt-[10px] pb-[40px]">
+            <div class="pl-[6.1px] text-center flex flex-col items-center">
+               <p class="border-2 border-black bg-white uppercase px-[10px] py-[9px] mb-[22px] w-[60px] text-center">you</p>
+            <h1 class="mb-[10px] text-3xl font-bold ">Receive revenue</h1>
+            <p class="my-[10px] text-xl font-semibold">Make a request to receive your revenue. We can deposit your funds to your pre-registered bank account or Paypal account.</p>
+               <img class="w-[312px] h-[148.3px] md:w-[345px] md:h-[189px] lg:w-[395px] lg:h-[212.7px] xl:w-[738px] xl:h-[375.8px] mb-[25px]" src="https://images.prismic.io/qrates-prd/5c3ad6ee-a6da-4d6e-a3da-8dcf49254043_Frame+451+%283%29.png?auto=compress,format"/>
+         </div>
+         </div>
      </div>
+     <!-- page-6 -->
+      <div class=" bg-black">
+         <div class="pt-10 pb-12 px-[15px] 2xl:px-[60px] text-white text-center 2xl:flex 2xl:items-center 2xl:justify-between">
+            <p class="text-4xl mb-1 block 2xl:hidden  font-bold">Start a new project <br  /><i class="mt-1 text-2xl   fa-solid fa-arrow-down"></i></p>
+            <p class="text-4xl mb-1 hidden 2xl:block  font-bold">Start a new project     <i class="mt-1 text-2xl   fa-solid fa-arrow-right"></i></p>
+            <button class="text-sm border-2 border-white px-[25px] w-full  py-3 2xl:py-0 font-semibold 2xl:w-[210px] 2xl:h-[46px] uppercase 2xl:text-md rounded-full mt-2">make your own</button>
+         </div>
+      </div>
+      <!-- page-7 -->
+       <div class="2xl:flex border-b-2 border-black">
+         <div class=" bg-[#81836C] border-b-2 border-black 2xl:border-r-2 px-[15px] 2xl:px-[60px] 2xl:py-[60px] pt-10 pb-[20px]">
+            <img class="w-full" src="https://images.prismic.io/qrates-prd/a1f42f14-b65d-419d-85f0-ef0a5462c4b2_artist_toolkit.png?auto=compress,format&rect=0,0,1161,653&w=1198&h=674" alt=""/>
+            <div class="flex flex-col items-center">
+               <p class=" border-2 mt-10 w-[145px] h-[38px]  bg-white text-black text-md font-semibold  uppercase border-black px-[10px] pt-[3px] pb-[6px] 2xl:pt-1">artist toolkit</p>
+               <h2 class="text-4xl mt-10 text-center font-bold">Take you and your works to next level.</h2>
+               <p class="mt-10 text-lg font-semibold text-center">We have a lot of informations and tips about music production, physical format and music business for you.</p>
+               <button class="text-sm bg-black text-white px-[25px] w-full  py-3 2xl:py-0 font-semibold 2xl:w-[210px] 2xl:h-[46px] uppercase 2xl:text-md rounded-full my-10">learn more</button>
+            </div>
+         </div>
+         <!--  -->
+         <div class=" bg-[#F8D8D8]  border-b-2 border-black  px-[15px] 2xl:px-[60px] 2xl:py-[60px] pt-10 pb-[20px]">
+            <img class="w-full" src="https://images.prismic.io/qrates-prd/bb2f7ed2-8eaa-45a4-993b-4d07ed4e4296_customersupport.png?auto=compress,format&rect=0,0,1161,653&w=1198&h=674" alt=""/>
+            <div class="flex flex-col items-center">
+               <p class=" border mt-10 w-[180px] h-[38px]  bg-white text-black text-md font-semibold  uppercase border-black px-[10px] pt-[3px] pb-[6px] 2xl:pt-[6px]">customer support</p>
+               <h2 class="text-4xl mt-10 text-center font-bold">Here to help, whenever you need it.</h2>
+               <p class="mt-10 text-lg font-semibold text-center">Whether you’re an artist in the middle of product, or a fan with questions about your order; our team is here to help.</p>
+               <button class="text-sm bg-black text-white px-[25px] w-full  py-3 2xl:py-0 font-semibold 2xl:w-[210px] 2xl:h-[46px] uppercase 2xl:text-md rounded-full my-10">contact us</button>
+            </div>
+         </div>
+       </div>
+       <!-- page-8 -->
+        <div class=" border-b-2 border-black">
+         <div class="px-[15px] pt-[40px]  pb-[60px] 2xl:px-[30px] 2xl:py-[80px] 2xl:mx-[82px] flex flex-col items-center text-center">
+            <p class=" border-2 mt-10 w-[145px] h-[38px]  bg-white text-black text-md font-semibold  uppercase border-black px-[10px] pt-[3px] pb-[6px] 2xl:pt-1">community</p>
+            <h3 class="mt-[30px] text-3xl font-bold">Join a growing community.</h3>
+            <p class="mt-[20px] text-lg font-semibold">We're building a home for the next generation vinyl lovers and cassette junkies. Get in front of fans, connect with artists, labels and stores. </p>
+            <button class="text-sm  text-black border 2xl:font-bold border-black px-[25px] w-full  py-3 2xl:py-0 font-semibold 2xl:w-[210px] 2xl:h-[46px] uppercase 2xl:text-md rounded-full my-10">read more stories</button>
+         </div>
+        </div>
+        <!-- page-9 -->
+         <div class="bg-[#FFF804] 2xl:flex 2xl:flex-row-reverse 2xl:border-y-2 2xl:border-black">
+            <div class="pt-[30px] px-[12.7px] 2xl:px-0 2xl:pt-0 md:px-[15px] lg:px-[17px] xl:px-[30.7px]">
+               <img class="w-full h-[567px] 2xl:w-[512px] 2xl:h-[877px] border-[3px] 2xl:border-0 border-black" src="https://images.prismic.io/qrates-prd/88610884-3509-4baa-aeb0-a49ed0c8300b_artist_sol.jpg?auto=compress,format"/>
+            </div>
+            <div class="px-[15px] pt-[30px] pb-[42px] 2xl:pl-[31px] 2xl:pr-[50px] 2xl:pt-[40px] 2xl:pb-[42px] 2xl:border-r-2 border-black 2xl:w-[512px] 2xl:h-[877px] 2xl:flex 2xl:flex-col 2xl:justify-around ">
+               <p class=" border-2 w-[175px] h-[38px]  bg-white text-black text-md font-semibold  uppercase border-black px-[10px] pt-[3px] pb-[6px] 2xl:pt-1">artists on qrates</p>
+              <div><p class="mt-[20px] text-xl 2xl:text-3xl pr-[29px] md:pr-[34.5px] lg:pr-[39.5px] xl:pr-[73px] font-semibold">"The response was overwhelming. It made me wonder why I hadn't pressed any records on vinyl before now. It felt like something that people had been waiting for for a long time."</p>
+               <p class="underline pt-[30px] pb-[102px] text-xl font-semibold">-SOL</p></div> 
+               <div class="flex space-x-2 pt-8">
+               <p class="w-[40px] h-[40px] text-center pt-2 bg-black text-white rounded-full">1</p>
+               <p class="w-[40px] h-[40px] text-center pt-2  border-2 border-black rounded-full">2</p>
+            </div>
+            </div>
+         </div>
+         <!-- page-10 -->
+          <div class="bg-black border-b border-neutral-100">
+            <div class="px-[15px] pt-10 pb-[50px] 2xl:px-[34px] 2xl:py-[50px]  text-white flex flex-col items-center text-center">
+               <p class=" border-2  w-[145px] h-[38px]   text-white text-md font-semibold mb-[20px] uppercase border-white px-[10px] pt-[3px] pb-[20px] 2xl:pt-1">try it now</p>
+               <h3 class="mb-[30px] text-3xl font-bold">Make it real with Qrates Studio</h3>
+               <p class="mb-[71px] text-lg 2xl:w-[525px]">Design the look and feel of your vinyl and cassette and use the profit calculator to immediately see how much your project will cost, and how much you'll earn.</p>
+               <div class=" mb-16  h-[193px] w-full xl:w-[340px] xl:h-[193px]"><img src="https://assets.qrates.com/packs/media/section_vinyl_studio/sample_4dilla-d886be83.png"/></div>
+               <button class="text-sm  text-black  2xl:font-bold bg-[#FFF804] px-[25px] w-full  py-3 2xl:py-0 font-semibold 2xl:w-[210px] 2xl:h-[46px] uppercase 2xl:text-md rounded-full mt-6 mb-2">try it now</button>
+            </div>
+          </div>
+          <!-- page-11 -->
+           <div>
+            <div class="px-[12.4px] pt-[26px] pb-8 xl:px-[30.7px] xl:pt-[26px] 2xl:pl-[80px] 2xl:pr-[60px] 2xl:pt-[78px] 2xl:pb-[84px]  bg-black text-white">
+             <div class="2xl:flex">  <!-- page-11-part-1 -->
+               <div class="flex ">
+                  <div class="mb-[62px] w-[50%]  2xl:w-[221px]">
+                  <h1 class="uppercase text-xl font-bold mb-[14px] 2xl:mb-[24px]">for artists</h1>
+                  <ul class="text-lg leaing-[24px] tracking-tighter 2xl:tracking-normal font-semibold">
+                     <li>for artists</li>
+                     <li>How it works</li>
+                     <li>Artist toolkit</li>
+                     <li>Referall Program</li>
+                  </ul>
+               </div>
+               <div class="mb-[62px] w-[50%]  2xl:w-[221px]">
+                  <h1 class="uppercase text-xl font-bold  mb-[14px] 2xl:mb-[24px]">for fans</h1>
+                  <ul class="text-lg leaing-[24px] tracking-tighter 2xl:tracking-normal font-semibold">
+                     <li>for fans</li>
+                     <li>Records</li>
+                     <li>cassettes</li>
+                     <li>Stories</li>
+                     <li>Qrates Curated</li>
+                  </ul>
+               </div>
+               </div>
+               <!-- page-11-part-2 -->
+               <div class="flex">
+                  <div class="mb-[62px] w-[50%]  2xl:w-[221px]">
+                  <h1 class="uppercase text-xl tracking-tighter  2xl:tracking-normal font-semibold mb-[14px] 2xl:mb-[24px]">our company</h1>
+                  <ul class="text-lg leaing-[24px] tracking-tighter 2xl:tracking-normal font-semibold">
+                     <li>About Qrates</li>
+                     <li>Careers</li>
+                     <li>Partner</li> 
+                  </ul>
+               </div>
+               <div class="mb-[62px] w-[50%]  2xl:w-[221px]">
+                  <h1 class="uppercase text-xl font-bold  mb-[14px] 2xl:mb-[24px]">help</h1>
+                  <ul class="text-lg leaing-[24px] tracking-tighter 2xl:tracking-normal font-semibold">
+                     <li>Support Center</li>
+                     <li>Contact Us</li>
+                     <li>Returns</li>
+                     <li>Shipping</li>
+                  </ul>
+               </div>
+               </div></div>
+               <!-- page-11-part-3 -->
+                <div class="mt-[18px] mb-[131px] 2xl:hidden text-4xl text-center">
+                  <i class="mx-[3px] xl:mx-3 fa-brands fa-facebook"></i>
+                  <i class="mx-[3px] xl:mx-3 fa-brands fa-instagram"></i>
+                  <i class="mx-[3px] xl:mx-3 fa-brands fa-square-twitter"></i>
+                </div >
+                  <div class="2xl:flex  2xl:justify-between 2xl:mt-[292px]"> <!-- page-11-part-4 -->
+                 <div class=" 2xl:flex 2xl:items-end 2xl:justify-end ">
+                  <div class="mb-[66px] mr-4 2xl:mb-0 2xl:mr-0">
+                     <img class="xl:w-full xl:pr-7 2xl:w-[420px] 2xl:h-[125px] 2xl:pr-0" src="https://assets.qrates.com/packs/media/logos/qrates-logo-footer-498fa5b7.svg"/>
+                  </div>
+                 </div>
+                 <!-- page-11-part-5 -->
+                  <div class="2xl:flex 2xl:flex-col 2xl:items-end">
+                     <div class="mb-[15px] w-full 2xl:w-[155px] h-[46px] border-[3px] border-neutral-300 flex justify-between items-center px-[20px]">
+                        <p>English</p>
+                        <p><i class="fa-solid fa-angle-down"></i></p>
+                     </div>
+                     <!-- for-2xl-size -->
+                     <div class="mt-[15px] mb-[20px] hidden 2xl:block  text-4xl text-center">
+                  <i class="mx-[5px] fa-brands fa-facebook"></i>
+                  <i class="mx-[5px]  fa-brands fa-instagram"></i>
+                  <i class="mx-[5px]  fa-brands fa-square-twitter"></i>
+                </div >
+                <!--  -->
+                     <div class="">
+                        <ul class="text-md tracking-tighter leading-5 font-bold flex justify-end md:justify-between 2xl:justify-normal items-center text-end ">
+                           <li class="2xl:pl-[20px]">Terms of Service</li>
+                           <li class="2xl:pl-[20px]">Privacy Policy</li>
+                           <li class="2xl:pl-[20px]">Legal information</li>
+                        </ul>
+                        <small class="mt-[3px] text-base tracking-tight font-semibold flex justify-center 2xl:justify-end ">© TDMS Inc.</small>
+                     </div>
+                  </div></div>
+            </div>
+           </div>
 </template>
 <script>
  </script>
+ <style scoped>
+
+</style>
